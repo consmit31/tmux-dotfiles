@@ -10,7 +10,7 @@
 
 ### 1. Clone the bare repository
 ```bash
-git clone --bare git@github.com:yourname/dotfiles.git $HOME/.dotfiles
+git clone --bare git@github.com:consmit31/tmux-dotfiles.git $HOME/.dotfiles
 ```
 
 ### 2. Add the dotfiles alias
