@@ -1,0 +1,7 @@
+pane	Fuely	1	0	:	1	Conners-MacBook-Pro.local	:/Users/consmit/Documents/source/fuely/fuely_cast	1	nvim	:nvim
+pane	Fuely	2	0	:-	1	Conners-MacBook-Pro.local	:/Users/consmit/Documents/source/fuely/fuely_cast	1	nvim	:nvim
+pane	Fuely	3	1	:*	1	Conners-MacBook-Pro.local	:/Users/consmit/Documents/source/fuely	1	zsh	:
+window	Fuely	1	:Serve	0	:	b25d,80x24,0,0,0	off
+window	Fuely	2	:Cast	0	:-	b25e,80x24,0,0,1	off
+window	Fuely	3	:Dev	1	:*	b77f,148x61,0,0,2	off
+state	Fuely	
